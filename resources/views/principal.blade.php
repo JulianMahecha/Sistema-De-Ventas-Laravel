@@ -147,13 +147,12 @@
         @yield('contenido')
         <!-- Fin Principal -->
     </div>
-    
+
     <footer class="app-footer">
-        <span><a href="http://julianmahecha.me/">Julian Mahecha</a> &copy; 2017</span>
+        <span><a href="http://julianmahecha.me/">Julian Mahecha</a> &copy; 2019</span>
         <span class="ml-auto">Desarrollado por <a href="http://julianmahecha.me/">Julian Mahecha</a></span>
     </footer>
 
-    
     <script src="js/plantilla.js"></script>
 </body>
 
