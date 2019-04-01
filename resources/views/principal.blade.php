@@ -11,10 +11,8 @@
     <link rel="shortcut icon" href="img/favicon.png">
     <title>LaralandSV</title>
     <!-- Icons -->
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/simple-line-icons.min.css" rel="stylesheet">
-    <!-- Main styles for this application -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/plantilla.css" rel="stylesheet">
+
 </head>
 
 <body class="app header-fixed sidebar-fixed aside-menu-fixed aside-menu-hidden">
@@ -155,15 +153,8 @@
         <span class="ml-auto">Desarrollado por <a href="http://julianmahecha.me/">Julian Mahecha</a></span>
     </footer>
 
-    <!-- Bootstrap and necessary plugins -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/pace.min.js"></script>
-    <!-- Plugins and scripts required by all views -->
-    <script src="js/Chart.min.js"></script>
-    <!-- GenesisUI main scripts -->
-    <script src="js/template.js"></script>
+    
+    <script src="js/plantilla.js"></script>
 </body>
 
 </html>
