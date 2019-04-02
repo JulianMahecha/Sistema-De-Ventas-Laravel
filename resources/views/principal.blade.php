@@ -153,7 +153,14 @@
         <span class="ml-auto">Desarrollado por <a href="http://julianmahecha.me/">Julian Mahecha</a></span>
     </footer>
 
+    <script
+			  src="https://code.jquery.com/jquery-3.3.1.min.js"
+			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+              crossorigin="anonymous">
+    </script>
     <script src="js/plantilla.js"></script>
+    <script src="js/app.js"></script>
+    
 </body>
 
 </html>
